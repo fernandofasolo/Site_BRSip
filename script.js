@@ -1,6 +1,6 @@
-const PUBLIC_KEY = "";
-const SERVICE_ID = "";
-const TEMPLATE_ID = "";
+const PUBLIC_KEY = "8AFXbd_ybTR6eiBhS";
+const SERVICE_ID = "service_g5qin14";
+const TEMPLATE_ID = "template_eu18w4e";
 
 const form = document.querySelector('#form');
 form.addEventListener('submit', (e) => {
